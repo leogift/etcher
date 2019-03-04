@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## v1.5.9 - 2019-03-04
+
+### Misc
+
+- Update etcher-sdk to 1.2.1
+
 ## v1.5.8 - 2019-03-01
 
 ### Misc
